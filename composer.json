@@ -1,0 +1,14 @@
+{
+    "name": "incredimike/Wufoo-PHP-API-Wrapper",
+    "type": "library",
+    "description": "A php library which implements the WuFoo API. Forked from vendor library for composer compat.",
+    "keywords": ["wufoo", "api"],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": []
+    }
+}
