@@ -9,6 +9,12 @@
     "require-dev": {
     },
     "autoload": {
-        "classmap": []
+        "classmap": [
+            "EntryArgs.php",
+            "WufooValueObjects.php",
+            "WufooApiWrapper.php",
+            "WufooApiWrapperBase.php",
+            "WufooValueObjects.php"
+        ]
     }
 }
